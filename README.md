@@ -5,7 +5,7 @@ Once you have got the CSRFDoubleS.war file in the target directory, deploy it in
 
 You can access the application with the URL http://localhost:(port)/CSRFDoubleS
 
-For More details visit : https://idealhax.blogspot.com/2018/10/synchronizer-token-pattern.html
+For More details visit : https://idealhax.blogspot.com/2018/10/double-submit-cookie-pattern.html
 
 Read An Introduction to CSRF : https://idealhax.blogspot.com/2018/10/cross-site-request-forgery-csrf-attack.html
 
