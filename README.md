@@ -1,6 +1,7 @@
+<p align="center">
 CSRF prevention with Double Submit Cookies
 ==========================================
-
+</p>
 [![API](https://img.shields.io/badge/BBR-DevOps-blueviolet)](https://www.linkedin.com/in/bbr/)
 
 Important Install Step
